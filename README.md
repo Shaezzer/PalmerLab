@@ -1,5 +1,4 @@
 # PalmerLab  
-# U01_suzanne_mitchell  
 ---
 
 ## QC_WFU_Master 
