@@ -15,3 +15,7 @@
 - has all information in order to do locomotor calculations
 - each subject has 15 sessions that will be utilized for locomotor calculations
 - WIP
+## Suzanne_Mitchell_FecalBoli
+- takes all fecal bolit excel files and uploads them to a single dataframe
+- organizes columns
+- boxplots for fecal boli count and change
